@@ -1,7 +1,5 @@
 #include <iostream> 
-
 using namespace std;
-
 int main(){
     double a, b, c, d, h;
 
@@ -44,7 +42,7 @@ int main(){
     //Вывод результатов
     cout << "\nРезультаты:" << endl;
     cout << "========================================" << endl;
-    cout << "Периметр трапеции: " << perimeter << endl;
+    cout << "Периметр трапеции: " << perimeter << endl;//добавила коментарий в периметр
     cout << "Площадь трапеции: " << ploshad << endl;
     cout << "Средняя линия: " << sr_linia << endl;
     cout << "========================================" << endl;

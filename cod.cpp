@@ -8,7 +8,7 @@ bool rectangleParams(double length, double width,
         return false;
     }
     perimeter = 2 * (length + width);
-    area = length * width;
+    area = length * width;//площадь
     diagonal = sqrt(length * length + width * width);
     return true;
 }

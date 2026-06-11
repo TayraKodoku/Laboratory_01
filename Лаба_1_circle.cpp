@@ -51,5 +51,5 @@ int main() {
     std::cout << "Площадь кругового сектора (угол " << angle << "°): " << area_sector << std::endl;
 
     return 0;
-// Конец
+// Конец кода
 }

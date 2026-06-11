@@ -1,3 +1,4 @@
+// Начало 
 #include <iostream>
 #include <cmath>
 
